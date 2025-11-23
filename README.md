@@ -1,27 +1,29 @@
-<!-- ────────────────────────── Header ────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=header"/>
-
-<!-- Animated -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cdd6f4&size=35&center=true&vCenter=true&width=1000&lines="Talk+is+cheap.+Show+me+the+code"+-+Linus+Torvalds&pause=30000)](https://git.io/typing-svg)
-
 <div align="center">
-
-<!-- GitHub stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eliandrodasilva&theme=apprentice&show_icons=true&hide_title=true&locale=en&rank_icon=github&hide_border=true&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=8&card_width=320&theme=apprentice&hide_border=true&text_color=cdd6f4&bg_color=1e1e2e" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=18&center=true&vCenter=true&width=600&lines=std%3A%3Acout+%3C%3C+%22Hello%2C+World!%22%3B&font=JetBrains+Mono&pause=1000" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center"><!--
+<br/>
 
-### 🛠️ Languages & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"     width="60" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   width="60" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"     width="60" alt="CSS3"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   width="60" alt="React Native"/>
+<h3 align="center"><code>void get_skills() {</code></h3>
 
- --></div>
-<!-- ────────────────────────── Footer ────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=footer"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,react,html,css&theme=dark" />
+  </a>
+</div>
+
+<h3 align="center"><code>}</code></h3>
+
+<br/>
+<h3 align="center">
+  <code>GitHub Stats</code>
+</h3>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eliandrodasilva&theme=apprentice&show_icons=true&hide_title=true&locale=en&rank_icon=github&hide_border=true&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=8&card_width=320&theme=apprentice&hide_border=true&text_color=cdd6f4&bg_color=1e1e2e" />
+</div>
+
+<br/>
