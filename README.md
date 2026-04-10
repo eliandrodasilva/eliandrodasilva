@@ -15,7 +15,7 @@
 
   <h3>Tech</h3>
 
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,github"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,tailwind,react"/>
 
   <br/><br/>
 
