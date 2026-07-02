@@ -42,9 +42,9 @@ while expanding my knowledge of modern Front-End technologies such as
 <h2>GitHub Stats</h2>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliandrodasilva&theme=dracula&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&icon_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliandrodasilva&theme=dracula&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&icon_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true&icon_color=ee8c81&title_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true&icon_color=ee8c81&title_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
 </p>
   
 </td>
