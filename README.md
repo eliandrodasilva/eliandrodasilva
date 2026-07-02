@@ -1,29 +1,54 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <h1>
-    Eliandro Gomes da Silva
-  </h1>
+<h2>About Me</h2>
 
-  <p>
-    <code>Software Developer</code> • <code>^^</code> • <code>Java / Python</code>
-  </p>
+<p>
+I am a <strong>third-year Software Engineering student</strong> passionate about software development.
+</p>
 
+<p>
+My main learning focus is <strong>Back-End development with Java and Spring Boot</strong>,
+while expanding my knowledge of modern Front-End technologies such as
+<strong>React</strong> and <strong>Tailwind CSS</strong>.
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:cba6f7&height=2&section=header"/>
+</td>
 
-  <br/>
+<td width="40%" align="center">
 
-  <h3>Tech</h3>
+<img width="240" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif"/>
 
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,tailwind,react,laravel"/>
+</td>
+</tr>
 
-  <br/><br/>
+<tr>
+<td colspan="2" align="center">
 
-  <h3>Activity</h3>
+<h2>Tech Stack</h2>
 
-  <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliandrodasilva&theme=apprentice&show_icons=true&hide_title=true&locale=en&rank_icon=hide&hide_border=true&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,tailwind,laravel&perline=6"/>
+</p>
   
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=8&card_width=320&theme=apprentice&hide_border=true&text_color=cdd6f4&bg_color=1e1e2e&title_color=cdd6f4" />
-</div>
-</div>
+</td>
+</tr>
+
+
+<tr>
+<td colspan="2" align="center">
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliandrodasilva&theme=dracula&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&icon_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=eliandrodasilva&layout=compact&langs_count=6&theme=dracula&hide_border=true&icon_color=ee8c81&title_color=d85f81&text_color=f1eee6&bg_color=0d1117"/>
+</p>
+  
+</td>
+</tr>
+</table>
+
+</table>
