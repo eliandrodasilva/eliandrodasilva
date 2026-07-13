@@ -2,16 +2,16 @@
 <tr>
 <td width="60%" valign="top">
 
-<h2>About Me</h2>
+<h2>Sobre mim</h2>
 
 <p>
-I am a <strong>third-year Software Engineering student</strong> passionate about software development.
+Estudante do <strong>3º ano de Engenharia de Software</strong> que curte programação como um hobby.
 </p>
 
 <p>
-My main learning focus is <strong>Back-End development with Java and Spring Boot</strong>,
-while expanding my knowledge of modern Front-End technologies such as
-<strong>React</strong> and <strong>Tailwind CSS</strong>.
+Meu atual foco de aprendizado é o <strong>desenvolvimento Back-End com Java e Spring Boot</strong>,
+enquanto amplio meus conhecimentos em tecnologias de Front-End, como
+<strong>React</strong> e <strong>Tailwind CSS</strong>.
 </p>
 
 </td>
