@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://postimg.cc/3kmR5XGB">
-    <img src="https://i.postimg.cc/P5F8DKrB/github-banner.jpg" width="100%" alt="Banner"/>
+  <a href="https://postimg.cc/3kwNcwtx">
+    <img src="https://i.postimg.cc/3xXGW4pm/github-banner-1.webp" width="100%" alt="Banner"/>
   </a>
 </div>
 
@@ -28,19 +28,8 @@
       <br>
       <b>Estudante do <strong>3º ano de Engenharia de Software</strong> que curte programação como um hobby.<br><br>
       Meu atual foco de aprendizado é o <strong>desenvolvimento Back-End com Java e Spring Boot</strong>.<br><br>
-Também estou ampliando meus conhecimentos em tecnologias de <strong>Front-End</strong>, como <strong>React</strong> e <strong>Tailwind CSS</strong>, com o objetivo de desenvolver aplicações completas.
+      Também estou ampliando meus conhecimentos em tecnologias de <strong>Front-End</strong>, como <strong>React</strong> e <strong>Tailwind CSS</strong>, com o objetivo de desenvolver aplicações completas.
 <br><br>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="https://postimg.cc/DSLZkrG6">
-        <img src="https://i.postimg.cc/pL1njkXw/github-photo-removebg-preview.png" width="220" alt="About Me Portrait"/>
-      </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://postimg.cc/w7SvGf1P">
-    <img src="https://i.postimg.cc/Nj0HLZBg/github-low-banner.png" width="100%" alt="Coding Quotes"/>
-  </a>
-</div>
